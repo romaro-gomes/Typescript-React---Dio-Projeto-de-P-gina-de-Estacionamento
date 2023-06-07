@@ -1,5 +1,5 @@
-# Projeto de Estacionmento da Dio com Typescript/React
+# Projeto de Estacionamento da Dio com Typescript/React
 
-O ojetivo desse projeto é por empratica os ensinamento da da formação FullStack em TypeScript.
+O ojetivo desse projeto é por em pratica os ensinamento da da formação FullStack em TypeScript.
 
-Esse modelo estamos utilizando o framework React e outras bibliotecas importantes para estilização.
+Neste projeto estamos utilizando o framework React e outras bibliotecas importantes para estilização de páginas e aplicações web.
